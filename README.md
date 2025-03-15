@@ -24,13 +24,13 @@ Task Management is a Flutter-based mobile application designed to help users org
  Steps to Run the App Locally
 
  Prerequisites
-- Flutter installed ([Flutter installation guide](https://flutter.dev/docs/get-started/install)).
+- Flutter installed (https://flutter.dev/docs/get-started/install).
 - Android Studio or VS Code with Flutter and Dart plugins.
 - A physical or virtual (emulator/simulator) device.
 
  Installation Steps
 1. Clone the repository:
-2. git clone https://github.com/your-repository/task-management-app.git
+2. git clone https://github.com/Nizam310/task_management.git
    cd task-management-app
    
 3. Install dependencies:
